@@ -6,7 +6,7 @@
 
 [Content Calendar](/blob/master/images/2023%20Content%20Dev%20Tracking_calendar%5Bsample%5D.xlsx%20-%20Google%20Sheets.pdf
 )
-<img src="/blob/master/images/content_calendar.png"/>
+<img src="/images/content_calendar.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
