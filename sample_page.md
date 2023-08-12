@@ -4,7 +4,7 @@
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="/pdf/2023%20Content%20Dev%20Tracking_calendar%5Bsample%5D.xlsx%20-%20Google%20Sheets.pdf>"
+<img src="/images/2023%20Content%20Dev%20Tracking_calendar%5Bsample%5D.xlsx%20-%20Google%20Sheets.pdf"> 
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
