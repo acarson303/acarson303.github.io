@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Work Samples
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Content Calendar](/blob/master/images/2023%20Content%20Dev%20Tracking_calendar%5Bsample%5D.xlsx%20-%20Google%20Sheets.pdf
+)
+<img src="/blob/master/images/content_calendar.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
