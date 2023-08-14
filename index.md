@@ -5,15 +5,19 @@
 ### Work Samples
 
 2023.1
+[User Acceptance Testing](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
+<img src="/images/UAT-feedback.png"/>
+
+2023.2
+[Project Roadmap](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
+<img src="/images/UAT-feedback.png"/>
+
+2023.11
 
 [Content Calendar](/images/2023%20Content%20Dev%20Tracking_calendar%5Bsample%5D.xlsx%20-%20Google%20Sheets.pdf
 )
 <img src="/images/content_calendar.png"/>
 
-2023.2
-[User Acceptance Testing](/blob/master/images/2023%20Content%20Dev%20Tracking_calendar%5Bsample%5D.xlsx%20-%20Google%20Sheets.pdf
-)
-<img src="/images/content_calendar.png"/>
 
 2020.1
 [Ballistic Calculator Scope Doc](/pdf/sample_presentation.pdf)
