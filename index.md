@@ -18,7 +18,7 @@
 [PDF Link](/pdf/Sample%20writing_Content_%20TVmount__R1-Final.docx.pdf)
 <img src="/images/pose-audio-solutions.png"/>
 
-----------------------------_______________________________________
+##----------------------------
 ## 2023.11 Content Calendar for Publishing
 
 [PDF Link](/images/2023%20Content%20Dev%20Tracking_calendar%5Bsample%5D.xlsx%20-%20Google%20Sheets.pdf
