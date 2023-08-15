@@ -12,8 +12,9 @@
 
 
 ## 2023.2 Wordpress Demo Screencast 
-[MP4 file](/pdf/WP-demo_recording.mp4)
 <img src="/images/Droplr-logo1.png"/>
+[MP4 file](/pdf/WP-demo_recording.mp4)
+
 ## ____________________________________________________________________________________________________
 ***
 
