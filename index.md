@@ -27,8 +27,8 @@
 
 
 2020.1
-[Ballistic Calculator Scope Doc](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ballistic Calculator Scope Doc](/pdf/Phase2_Reqs_BallisticCalculator_WebApp_FinalReview8.pdf)
+<img src="/images/z-scope-doc.png"/>
 
 ---
 [Wireframe Axshare](http://example.com/)
