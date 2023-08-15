@@ -1,6 +1,7 @@
  
 <!-- ## This can be your internal website page / project page
 See example FE view here: https://pages-themes.github.io/minimal/
+Original theme code / setup here https://github.com/pages-themes/minimal
 
 **Project description:** Handled more than 30 newly published articles each month for heavily marketed legal team. Responsible for managing writer deadlines, prepping instruction material, coordinating imaging and creating tasks through Jira. The content calendar served as owner of all tasks and article that had to be accomplished each month.
 
