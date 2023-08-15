@@ -1,16 +1,15 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Work Samples
+## Work Samples
 
-#### 2023.1 User Acceptance Testing - Curated Test Feedback
+## 2023.1 User Acceptance Testing - Curated Test Feedback
 [PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <img src="/images/UAT-feedback.png"/>
--------------------------------------------------------------------------
 
 
-#### 2023.2 Project Roadmap with Timeline 
+## 2023.2 Project Roadmap with Timeline 
 [PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <img src="/images/UAT-feedback.png"/>
 -------------------------------------------------------------------------
