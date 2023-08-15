@@ -17,7 +17,7 @@
 #### 2023.3 Web Copy based on SEO Research 
 
 [PDF Link](/pdf/Sample%20writing_Content_%20TVmount__R1-Final.docx.pdf)
-<img src="/images/pose-audio-solutions.png"/>
+<img src="/images/RL-copy.png"/>
 ---
 
 #### 2023.11 Content Calendar for Publishing
