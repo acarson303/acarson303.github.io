@@ -8,12 +8,14 @@
 [PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <img src="/images/UAT-feedback.png"/>
 ## ____________________________________________________________________________________________________
+***
 
 
 ## 2023.2 Wordpress Demo Screencast 
 [MP4 file](/pdf/WP-demo_recording.mp4)
 <img src="/images/Droplr-logo1.png"/>
 ## ____________________________________________________________________________________________________
+***
 
 
 ## 2023.3 Project Roadmap with Timeline 
