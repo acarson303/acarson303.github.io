@@ -8,18 +8,21 @@
 [PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <img src="/images/UAT-feedback.png"/>
 
+## 2023.2 Wordpress Demo Screencast 
+[MP4 file](/pdf/WP-demo_recording.mp4)
+<img src="/images/Droplr-logo1.png"/>
 
-## 2023.2 Project Roadmap with Timeline 
+## 2023.3 Project Roadmap with Timeline 
 [PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <img src="/images/UAT-feedback.png"/>
 
-## 2023.3 Web Copy based on SEO Research 
+## 2023.4 Web Copy based on SEO Research 
 
 [PDF Link](/pdf/Sample%20writing_Content_%20TVmount__R1-Final.docx.pdf)
 <img src="/images/pose-audio-solutions.png"/>
 
 ##__________________________________
-## 2023.11 Content Calendar for Publishing
+## 2023.5 Content Calendar for Publishing
 
 [PDF Link](/images/2023%20Content%20Dev%20Tracking_calendar%5Bsample%5D.xlsx%20-%20Google%20Sheets.pdf
 )
