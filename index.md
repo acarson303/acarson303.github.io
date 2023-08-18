@@ -1,18 +1,19 @@
 # Portfolio - Work Samples
 
 ## 2023.1 User Acceptance Testing Issues
-[PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
+##[PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <kbd><img src="/images/UAT-feedback.png"/></kbd>
 
 &nbsp;&nbsp;
 ## 2023.2 Wordpress Demo Screencast 
+##[MP4 file](/pdf/WP-demo_recording.mp4)
 <kbd><img src="/images/Droplr-logo1.png"/></kbd>
-[MP4 file](/pdf/WP-demo_recording.mp4)
+
 
 
 &nbsp;&nbsp;
 ## 2023.3 Project Roadmap with Timeline 
-[PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
+##[PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <img src="/images/UAT-feedback.png"/>
 
 &nbsp;&nbsp;
