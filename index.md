@@ -4,6 +4,11 @@
 [PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <kbd><img src="/images/UAT-feedback.png"/></kbd>
 
+## 2023.1 User Acceptance Testing Issues - B
+![PDF URL](https://github.com/acarson303/acarson303.github.io/blob/master/pdf/Help!%20UAT%20Issues.pdf "UAT Feedback")
+<kbd><img src="/images/UAT-feedback.png"/></kbd>
+
+
 &nbsp;&nbsp;
 ## 2023.2 Wordpress Demo Screencast 
 ##[MP4 file](/pdf/WP-demo_recording.mp4)
