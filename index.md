@@ -11,7 +11,7 @@
 
 
 &nbsp;&nbsp;
-## 2022.1 Quality Assurance - eCommerce Project
+## 2022.1 Quality Assurance - Shopify eCommerce 
 [Webpage Link](https://konsciousketo.com/)
 <kbd><img src="/images/kk-keto.png"/></kbd>
 
