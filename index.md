@@ -9,11 +9,6 @@
 [MP4 file](/pdf/WP-demo_recording.mp4)
 <kbd><img src="/images/Droplr-logo1.png"/></kbd>
 
-&nbsp;&nbsp;
-## 2023.3 Project Roadmap with Timeline 
-[PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
-<kbd><img src="/images/UAT-feedback.png"/></kbd>
-
 
 &nbsp;&nbsp;
 ## 2022.1 Quality Assurance - eCommerce Project
