@@ -4,11 +4,6 @@
 [PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <kbd><img src="/images/UAT-feedback.png"/></kbd>
 
-&nbsp;&nbsp;
-## 2023.2 Wordpress Training Demo Screencast 
-[MP4 file](/pdf/WP-demo_recording.mp4)
-<kbd><img src="/images/Droplr-logo1.png"/></kbd>
-
 
 &nbsp;&nbsp;
 ## 2022.1 Quality Assurance - Shopify eCommerce 
@@ -30,6 +25,12 @@
 ## 2019.1 Axshare Wireframe - Membership site
 [Webpage Link](https://i9a8ec.axshare.com/#p=home)
 <kbd><img src="/images/wireframe_axshare.png"/></kbd>
+
+&nbsp;&nbsp;
+## 2023.2 Wordpress Training Demo Screencast 
+[MP4 file](/pdf/WP-demo_recording.mp4)
+<kbd><img src="/images/Droplr-logo1.png"/></kbd>
+
 
 &nbsp;&nbsp;
 ## 2023.4 Web Copy based on SEO Research 
