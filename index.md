@@ -1,7 +1,7 @@
 # Portfolio - Work Samples
 
 ## 2023.1 User Acceptance Testing Issues
-##[PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
+[PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <kbd><img src="/images/UAT-feedback.png"/></kbd>
 
 &nbsp;&nbsp;
