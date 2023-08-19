@@ -4,21 +4,16 @@
 [PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <kbd><img src="/images/UAT-feedback.png"/></kbd>
 
-## 2023.1 User Acceptance Testing Issues - B
-![PDF URL](/pdf/Help!%20UAT%20Issues.pdf "UAT Feedback")
-<kbd><img src="/images/UAT-feedback.png"/></kbd>
-
 
 &nbsp;&nbsp;
 ## 2023.2 Wordpress Demo Screencast 
-##[MP4 file](/pdf/WP-demo_recording.mp4)
+[MP4 file](/pdf/WP-demo_recording.mp4)
 <kbd><img src="/images/Droplr-logo1.png"/></kbd>
-
 
 
 &nbsp;&nbsp;
 ## 2023.3 Project Roadmap with Timeline 
-##[PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
+[PDF Link](/images/Help!%20UAT.xlsx%20-%20Google%20Sheets.pdf)
 <kbd><img src="/images/UAT-feedback.png"/></kbd>
 
 &nbsp;&nbsp;
