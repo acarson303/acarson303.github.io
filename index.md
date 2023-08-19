@@ -33,7 +33,7 @@
 
 &nbsp;&nbsp;
 ## 2019.1 Axshare Wireframe - Membership site
-[Webpage Link](https://i9a8ec.axshare.com/#p=home))
+[Webpage Link](https://i9a8ec.axshare.com/#p=home)
 <kbd><img src="/images/wireframe_axshare.png"/></kbd>
 
 &nbsp;&nbsp;
