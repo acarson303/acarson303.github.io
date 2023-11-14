@@ -2,7 +2,7 @@
 
 ### Worksamples
 
-This is a sample project to showcase portfolio work samples. All files except this one are blank. Refer to index.md file for sammple work.
+This is a sample project to showcase portfolio work samples. All files except this one are blank. Refer to index.md file for sample work.
 
 <!--
 
